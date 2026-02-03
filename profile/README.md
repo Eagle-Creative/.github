@@ -58,8 +58,7 @@ ROS2 Jazzy interface for controlling the Wlkata Mirobot with GUI support and gri
 
 ## Organization Activity
 
-![snake svg](https://raw.githubusercontent.com/Eagle-Creative/Eagle-Creative/output/github-contribution-grid-snake-dark.svg)
-
+![snake svg](https://raw.githubusercontent.com/Eagle-Creative/Eagle-Creative/output/snake.svg)
 ---
 
 ## Get In Touch
