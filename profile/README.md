@@ -24,20 +24,20 @@ Eagle Creative is a robotics and software development organization focused on in
 
 **Communication Systems**
 - FlexComm: Flexible Communication Toolbox for Unity
-- Industrial protocol implementations (Snap7, Dynamixel)
+- Industrial protocol implementations
 - Modular communication frameworks
 
 **Development**
-- C# and Python development
+- C#, JS and Python development
 - Unity-based applications
 - API and toolbox development
+- Server development
 
 ## Key Projects
 
 ### FlexComm
 Flexible Communication Toolbox for Unity - a modular framework for building communication systems in Unity applications.
 
-**Repository:** [FlexComm](https://github.com/Eagle-Creative/FlexComm)  
 **Companion:** [FlexComm-Lab](https://github.com/Eagle-Creative/FlexComm-Lab)
 
 ### ROS2 Mirobot Interface
@@ -45,22 +45,16 @@ ROS2 Jazzy interface for controlling the Wlkata Mirobot with GUI support and gri
 
 **Repository:** [ROS2-Jazzy-Mirobot-Interface](https://github.com/Eagle-Creative/ROS2-Jazzy-Mirobot-Interface)
 
-### Re-Bot E1
-Scrap robot project demonstrating practical robotics and automation principles.
-
-**Repository:** [Re-Bot-E1](https://github.com/Eagle-Creative/Re-Bot-E1)
 
 ### Additional Projects
-- **Robot-IK** - Base robotics and inverse kinematics testing
-- **JawController-Snap7-Dynamixel** - Industrial controller integration
-- **EagleCreativeCollection** - Collection of developed APIs
-- **Mirai** - Python-based development project
+- **Robot-IK** - Base robotics and inverse kinematics testing for native Unity
+- **Mirai** - Multi-Modal User interface for Robots using Artifical Inteligence (Phd. Project)
 
 ## Technologies
 
-**Languages:** C#, Python  
-**Frameworks:** Unity, ROS2  
-**Tools:** OpenCV, Snap7, Dynamixel SDK
+**Languages:** C/C++, C#, JavaScript, Python  
+**Platforms:** Augmented & Virtual Reality (XR), Mobile, Desktop, Server   
+
 
 ## Organization Activity
 
