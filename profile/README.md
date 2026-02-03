@@ -76,15 +76,6 @@ ROS2 Jazzy interface for controlling the Wlkata Mirobot with GUI support and gri
 **Platforms:** Augmented & Virtual Reality (XR), Mobile, Desktop, Server   
 
 
-## Organization Activity
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Eagle-Creative/Eagle-Creative/output/snake.svg" alt="Snake animation" />
-
-###
-
----
 
 ## Get In Touch
 
