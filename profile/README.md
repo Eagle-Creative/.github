@@ -65,6 +65,10 @@ ROS2 Jazzy interface for controlling the Wlkata Mirobot with GUI support and gri
 
 **Repository:** [ROS2-Jazzy-Mirobot-Interface](https://github.com/Eagle-Creative/ROS2-Jazzy-Mirobot-Interface)
 
+### FlexComm_bridge - ROS2-Jazzy MQTT bridge
+Bidirectional ROS2 Jazzy to MQTT bridge.
+
+**Repository:** [FlexComm_bridge](https://github.com/Eagle-Creative/FlexComm_bridge)
 
 ### Additional Projects
 - **Robot-IK** - Base robotics and inverse kinematics testing for native Unity
